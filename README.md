@@ -94,7 +94,7 @@ In order to run this project you need:
 
 - Npm
 - Git
-- Broswer to Display
+- Browser to Display
 - IDE to run and edit the code
 
 ### Setup
